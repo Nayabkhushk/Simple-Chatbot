@@ -75,7 +75,6 @@ if user_msg:
 if st.button("🗑️ Clear Chat"):
     st.session_state.history = []
     st.experimental_rerun()
-"
 
 client = Groq(api_key=API_KEY)
 MODEL_NAME = "llama-3.1-8b-instant"
