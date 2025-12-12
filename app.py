@@ -1,13 +1,6 @@
 import streamlit as st
 from groq import Groq
 
-# ----------------------------
-# DIRECT API KEY
-# ----------------------------
-API_KEY = import streamlit as st
-from groq import Groq
-
-# ----------------------------
 # DIRECT API KEY
 # ----------------------------
 API_KEY = "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"
