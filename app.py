@@ -4,7 +4,7 @@ from groq import Groq
 # ----------------------------
 # DIRECT API KEY
 # ----------------------------
-API_KEY = "import streamlit as st
+API_KEY = import streamlit as st
 from groq import Groq
 
 # ----------------------------
