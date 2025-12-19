@@ -1,1 +1,2 @@
 # Simple-Chatbot
+This is a simple AI chatbot built using streamlit and powered by the Groq API. It allows users to have real-time conversations with a large language model through an easy-to-use web interface. The chatbot maintains conversation history, responds quickly, and demonstrates how to integrate Groq’s fast inference models into an interactive application. This project is suitable for learning, experimentation, and showcasing AI application development skills.
